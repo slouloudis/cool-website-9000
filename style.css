@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+img {
+    height: 30vh;
+}
